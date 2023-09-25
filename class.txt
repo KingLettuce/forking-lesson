@@ -4,7 +4,9 @@ Blue
 Cyan
 Yellow
 Charcoal
-Pear
+Khaki
+Coral
+Silver
 Fuchsia
 Purple
 Brown
